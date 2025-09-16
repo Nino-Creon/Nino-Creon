@@ -1,1 +1,38 @@
-# Nino-Croen
+# Antoine Créon, MD | Nephrologist & PhD Student in Biostatistics and Epidemiology
+
+🔗 **[Karolinska Institutet](https://ki.se/en/people/antoine-creon) | [Google Scholar](https://scholar.google.com/citations?user=Vq6GANsAAAAJ&hl=fr&oi=ao) | [ORCID](https://orcid.org/0009-0006-6498-0257) | [Researchgate](https://www.researchgate.net/profile/Antoine-Creon)**
+
+## 📌 About Me  
+I'm a nephrologist, and PhD student in biostatistics and epidemiology at Karolinska Institutet, Stockholm. I work in the **[Carrero Group](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/cardio-renal-epidemiology-juan-jesus-carreros-research-group)** under the supervision of **[Prof. Juan J. Carrero](https://ki.se/en/people/juan-jesus-carrero)**, **[Dr. Edouard L. Fu](https://edouard-fu.github.io/)**, **[Prof. Arvid Sjölander](https://ki.se/en/people/arvid-sjolander#about-me)** and **[Dr. Anne-Laure Faucon](https://ki.se/en/people/annelaure-faucon)**. My work involves large-scale register and laboratory data as well as causal inference methods.
+
+## 🔬 Research interests
+- Equity and variability in kidney outcomes and care
+- Evaluating and personalizing treatment strategies in kidney disease
+- Generalizability of cardio-renal treatment effects
+
+## 🔧 Methodological interests
+- Inverse probability weighting and other g-methods
+- Target trial emulation of dynamic treatment strategies
+- Causal machine learning for individualized predictions
+
+## 🚀 Key Projects
+- **Albuminuria care gaps in kidney disease**  
+  Investigating disparities in monitoring and treatment in large-scale register data.  
+  🔗 Coming soon
+- **Measured versus estimated glomerular filtration rate and risk of adverse outcomes**  
+  Comparing measured and estimated GFR to understand how they relate to kidney failure, cardiovascular events, and mortality.  
+  🔗 Coming soon
+- **Population-based eGFR distributions and early identification of chronic kidney disease**  
+  Developing a framework using population-specific eGFR distributions to identify individuals at high risk of kidney failure or death.  
+  🔗 Coming soon
+
+## 📫 How to reach me
+- Email: [antoine.creon@ki.se](mailto:antoine.creon@ki.se)
+- Bluesky: [@antoinecreon.bsky.social](https://bsky.app/profile/antoinecreon.bsky.social)
+- X: [@AntoineCreon](https://x.com/AntoineCreon)
+
+## 🌍 Outside Work
+When I’m not working on data and kidney research, you’ll probably find me:  
+- Exploring underwater caves 🤿 
+- Hiking in the Pyrenees ⛰️  
+- Hunting for the best Neapolitan pizza in town 🍕  
