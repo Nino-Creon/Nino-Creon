@@ -13,7 +13,7 @@ I'm a nephrologist, and PhD student in biostatistics and epidemiology at Karolin
 ## 🔧 Methodological interests
 - Inverse probability weighting and other g-methods
 - Target trial emulation of dynamic treatment strategies
-- Causal machine learning for individualized predictions
+- Causal machine learning
 
 ## 🚀 Key Projects
 - **Albuminuria care gaps in kidney disease**  
