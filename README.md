@@ -17,7 +17,7 @@ I'm a nephrologist, and PhD student in biostatistics and epidemiology at Karolin
 
 ## 🚀 Key Projects
 - **Albuminuria care gaps in kidney disease**  
-  Investigating disparities in monitoring and treatment in large-scale register data.  
+  Investigating disparities in monitoring and treatment in large-scale register and laboratory data.  
   🔗 Coming soon
 - **Measured versus estimated glomerular filtration rate and risk of adverse outcomes**  
   Comparing measured and estimated GFR to understand how they relate to kidney failure, cardiovascular events, and mortality.  
