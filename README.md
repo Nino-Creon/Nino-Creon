@@ -2,8 +2,8 @@
 
 [![Karolinska Institutet](https://img.shields.io/badge/Karolinska_Institutet-870052?style=for-the-badge&logo=karolinska-institutet&logoColor=white)](https://ki.se/en/people/antoine-creon) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Vq6GANsAAAAJ&hl=fr&oi=ao) 
-[![ORCID](https://img.shields.io/badge/ORCID-00A1E1?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6498-0257)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Antoine-Creon)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6498-0257)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Antoine-Creon)
 
 ## 📌 About Me  
 I'm a nephrologist, and PhD student in biostatistics and epidemiology at Karolinska Institutet, Stockholm. I work in the **[Carrero Group](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/cardio-renal-epidemiology-juan-jesus-carreros-research-group)** under the supervision of **[Prof. Juan J. Carrero](https://ki.se/en/people/juan-jesus-carrero)**, **[Dr. Edouard L. Fu](https://edouard-fu.github.io/)** (from **[Leiden University Medical Center](https://www.lumc.nl/en/)**), **[Prof. Arvid Sjölander](https://ki.se/en/people/arvid-sjolander#about-me)** and **[Dr. Anne-Laure Faucon](https://ki.se/en/people/annelaure-faucon)**. My work involves large-scale register and laboratory data as well as causal inference methods.
@@ -30,9 +30,9 @@ I'm a nephrologist, and PhD student in biostatistics and epidemiology at Karolin
   🔗 Coming soon
 
 ## 📫 How to reach me
-[![Email](https://img.shields.io/badge/Email-antoine.creon@ki.se-870052?style=for-the-badge&logo=@&logoColor=white)](mailto:antoine.creon@ki.se)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@antoinecreon.bsky.social-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/antoinecreon.bsky.social)
-[![X](https://img.shields.io/badge/X-@AntoineCreon-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AntoineCreon)
+[![Email](https://img.shields.io/badge/Email-antoine.creon@ki.se-lightgrey?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=870052)](mailto:antoine.creon@ki.se) 
+[![Bluesky](https://img.shields.io/badge/Bluesky-@antoinecreon.bsky.social-lightgrey?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=1DA1F2)](https://bsky.app/profile/antoinecreon.bsky.social) 
+[![X](https://img.shields.io/badge/X-@AntoineCreon-lightgrey?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/AntoineCreon)
 
 ## 🌍 Outside Work
 When I’m not working on data and kidney research, you’ll probably find me:  
